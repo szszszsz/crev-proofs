@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-03T10:55:17.942379862+01:00"
+from:
+  id-type: crev
+  id: X071A7ynULJQs7GfH3WfpJORXbbMbPG892vX1lEBgyk
+package:
+  source: "https://crates.io"
+  name: heapless
+  version: 0.7.8
+  revision: f3175ee2f665e301bbec324fc10c18bb2cde24b7
+  digest: _jCUFLhAFhLC2E2pOFM4asRWHrzehjO3wu_-SMhuht0
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+3sEtR4WT2cWAbauH6xos5-4lQzWxv9i7Ugn0Wwu-XCuTdpt8u6mFuIRnoDSIpc62k9shiPfwtpsJvrVfjqrrAA
+----- END CREV PROOF -----
+
